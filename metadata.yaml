@@ -1,0 +1,37 @@
+_repo: The-Story-of-the-Greeks_23495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Hélène Adeline
+    - Guerber, Helene Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+description: The Story of the Greeks provides an intersting and thorough history of
+  Greece. Beginning with Greek myth and legend, the author moves through major figures,
+  the Trojan war, the city-states of of Sparta and Athens, the Persian War, the adventures
+  of Alexander the Great and more, before ending with Greece's absorption into the
+  Roman Empire. This ebook, specially formatted for today's e-readers, is a great
+  introduction to anyone with an interest in classical Greek literature, philosophy,
+  or histor.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2007-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers -- History'
+- !lcsh 'Greece -- History'
+- !lcc 'DF'
+title: The Story of the Greeks
+url: http://www.gutenberg.org/ebooks/23495
